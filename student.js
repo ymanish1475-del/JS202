@@ -1,4 +1,4 @@
-//making  OBJECT A "STUDENT "NAME
+// making  OBJECT A "STUDENT "NAME
 
 const student ={
     fullName : "ironman",
@@ -11,3 +11,7 @@ student["age"]=student["age"]+4;
 console.log(student["fullName"]);
 console.log(student.age);
 console.log(student);
+
+// let mark;
+// console.log("bol hea himmat:",mark);
+// console.log(mark)
