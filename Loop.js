@@ -16,8 +16,20 @@
 // console.log("sum=" ,sum);
 // console.log("loop ended");
 
-let min=100;
-for(i=0;i<=10;i++){
-    min=min+i;
-}
-console.log(min);
+// let min=100;
+// for(i=0;i<=10;i++){
+//     min=min+i;
+// }
+// console.log(min);
+
+// for( let i=1;i<=6; i++){
+//     console.log("i=",i);
+// }
+// console.log(i); cause i is only define in loop.
+// for( var i=1;i<=6; i++){
+//     console.log("i=",i);
+// }
+// console.log(i);  here i is global variable
+//
+
+// TL-07012026024724.
